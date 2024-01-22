@@ -10,4 +10,3 @@ Visit the page here: https://digitalconfucius.github.io/jianyin/
 bootstrap: https://getbootstrap.com/
 
 hotoo/pinyin: https://www.npmjs.com/package/pinyin
-
