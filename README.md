@@ -1,5 +1,5 @@
 # 简音 jiaanyīn 
-jiaanyīn is a Modern Standard Chinese pronunciation guide with semi-toneless writing for early-advanced speakers. It's a combination of Hahnyuu Pīnyīn 汉语拼音 and Guóyuu Luómaazih [国语罗马字](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh).
+jiaanyīn is a Modern Standard Chinese pronunciation guide with semi-toneless writing for early-advanced speakers. It's a combination of [Hahnyuu Pīnyīn 汉语拼音](https://en.wikipedia.org/wiki/Pinyin) and Guóyuu Luómaazih [国语罗马字](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh).
 
 Visit the live demo (which has some limitations) here: https://digitalconfucius.github.io/jianyin/.
 
@@ -21,7 +21,7 @@ zheh geh huánjihng buy shihhé nii de xihnggé
 
 # Why jiaanyīn?
 
-Hahnyuu Pīnyīn has become the de facto standard for Chinese Latinization, but the excess of tonal markers can make it very difficult for native English speakers to read. It especially becomes a bottleneck for early-advanced speakers of Chinese, who are fully aware of all five Chinese tones at an auditory level but still unconsciously read Pīnyīn as if it were English. 
+[Hahnyuu Pīnyīn](https://en.wikipedia.org/wiki/Pinyin) has become the de facto standard for Chinese Latinization, but the excess of tonal markers can make it very difficult for native English speakers to read. It especially becomes a bottleneck for early-advanced speakers of Chinese, who are fully aware of all five Chinese tones at an auditory level but still unconsciously read Pīnyīn as if it were English. 
 
 The main problem is that á, ǎ, and á correspond to completely different sounds in Chinese, but they are rendered in Latin letters with tiny diacritical marks as if the tone is somehow "separate" from the letter, or even worse, an "accessory" item. Consider this: běijīng vs. bèijǐng. Did you read it correctly? If yes, then you don't need to use jiaanyīn. If no, then continue reading.
 
@@ -41,6 +41,13 @@ Here's where jiaanyīn comes in. It has semi-toneless spelling, and all five Chi
 
 Try it out with our live demo: https://digitalconfucius.github.io/jianyin/.
 
+# Limitations of the live demo
+The [live demo](https://digitalconfucius.github.io/jianyin/) is currently missing:
+- Word segmentation
+- Homophone recognition
+
+Please use your own Chinese dictionary to fill in the gap for the time being.
+
 # Further discussion
 We decided to preserve the á tone marker because it is easy for modern English speakers to recognize. This diacritical marker is used in modern English fairly frequently, especially in French loanwords. In particular, we chose not to use the Guóyuu Luómaazih á -> ar mapping because it is so easily confused with English "r" sounds which can lead to mispronunciation.
 
@@ -49,13 +56,6 @@ We decided to preserve the ā tone marker because it is so unique to modern Chin
 We considered adding a -w sound for dipthongs ending in o, like bào and hào (baow and haow), but it makes the rules a little complicated to remember. We felt that baoy and haoy were good enough, despite falling somewhat short of the mark. Feel free to experiment with that on your own.
 
 In an opposite manner, we thought about simply always replacing the fourth tone with the terminal -h. (e.g. lù -> luh, lèi -> leiy). We felt this might be too far of a stretch from how it could be pronounced in English. Feel free to experiment with adding this rule yourself.
-
-# Limitations of the live demo
-The [live demo](https://digitalconfucius.github.io/jianyin/) is currently missing:
-- Word segmentation
-- Homophone recognition
-
-Please use your own Chinese dictionary to fill in the gap for the time being.
 
 # Resources Used
 国语罗马字: https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh
