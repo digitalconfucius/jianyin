@@ -29,7 +29,7 @@ Beeijīng de beiyjiing beiy biehde bēi beiy le
 
 [Hahnyuu Pīnyīn](https://en.wikipedia.org/wiki/Pinyin) has become the de facto standard for Chinese Latinization, but the excess of tonal markers can make it very difficult for native English speakers to read. It especially becomes a bottleneck for early-advanced speakers of Chinese, who are fully aware of all five Chinese tones at an auditory level but still unconsciously read Pīnyīn as if it were English. 
 
-The main problem is that á, ǎ, and á correspond to completely different sounds in Chinese, but they are rendered in Latin letters with tiny diacritical marks as if the tone is somehow "separate" from the letter, or even worse, an "accessory" item. Consider this: běijīng vs. bèijǐng. Did you read it correctly? If yes, then you don't need to use jiaanyīn. If no, then continue reading.
+The main problem is that á, ǎ, and à correspond to completely different sounds in Chinese, but they are rendered in Latin letters with tiny diacritical marks as if the tone is somehow "separate" from the letter, or even worse, an "accessory" item. Consider this: běijīng vs. bèijǐng. Did you read it correctly? If yes, then you don't need to use jiaanyīn. If no, then continue reading.
 
 [Guóyuu Luómaazih 国语罗马字](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh) does not have the same problem with tonal markers. Most of the unique sounds of modern Chinese are truly rendered with unique, zero-diacritical spellings, meaning that once you learn it, you can pronounce it perfectly without relying on the concept of "tone" at all. The problem is that Guóyuu Luómaazih is pretty complex and doesn't have a one-to-one mapping in the clean and obvious way guaranteed by Hahnyuu Pīnyīn. 
 
