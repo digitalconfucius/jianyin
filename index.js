@@ -5,20 +5,52 @@ function toPinyinString(text) {
 }
 
 function replacePinyinTones(text) {
-  const replacements = {
-      'ā': 'a', 'ō': 'o', 'ē': 'e', 'ī': 'i', 'ū': 'u', 'ǖ': 'ü',
-      'á': 'ar', 'ó': 'or', 'é': 'er', 'í': 'ir', 'ú': 'ur', 'ǘ': 'ür',
+  const thirdToneReplacements = {
       'ǎ': 'aa', 'ǒ': 'oo', 'ě': 'ee', 'ǐ': 'ii', 'ǔ': 'uu', 'ǚ': 'üü',
-      'à': 'ah', 'ò': 'oh', 'è': 'eh', 'ì': 'ih', 'ù': 'uh', 'ǜ': 'üh',
-      'a': 'a\'', 'o': 'o\'', 'e': 'e\'', 'i': 'i\'', 'u': 'u\'', 'ü': 'ü\''
   };
 
-  return text.replace(/ā|ō|ē|ī|ū|ǖ|á|ó|é|í|ú|ǘ|ǎ|ǒ|ě|ǐ|ǔ|ǚ|à|ò|è|ì|ù|ǜ|a(?![arh';a])|o|e|i|u|ü/g, match => replacements[match]);
+  const fourthToneTriple= {
+    'iào' : 'iaoh',
+    'uài' : 'uaiy',
+    'ueì' : 'ueiy',
+  };
+
+  const fourthToneDouble = {
+      'ài' : 'aiy',
+      'ào' : 'aoy',
+      'èi' : 'eiy',
+      'òu' : 'ouy',
+      'ià' : 'iah',
+      'iè' : 'ieh',
+      'iù' : 'iuy',
+      'uà' : 'uah',
+      'uì' : 'uiy',
+  };
+
+  const fourthToneSingle = {
+     'à': 'ah', 'ò': 'oh', 'è': 'eh', 'ì': 'ih', 
+     'ù': 'uy', 'ǜ': 'üy',
+ };
+
+  let currentText = text.replace(/ǎ|ǒ|ě|ǐ|ǔ|ǚ/g, match => thirdToneReplacements[match]);
+
+  currentText = currentText.replace(/iào|uài|ueì/g, match => fourthToneTriple[match]);
+
+  currentText = currentText.replace(/ài|ào|èi|òu|ià|iè|iù|uà|uì/g, match => fourthToneDouble[match]);
+
+  currentText = currentText.replace(/à|ò|è|ì|ù|ǜ/g, match => fourthToneSingle[match]);
+
+  return currentText;
 }
 
-let text = "Nǐ wèishénme yīzhí xǐhuan chī lǜ pútao";
-let replacedText = replacePinyinTones(text);
-console.log(replacedText);
+console.log(toPinyinString("你为什么喜欢吃绿葡萄"));
+console.log(replacePinyinTones(toPinyinString("你为什么喜欢吃绿葡萄")));  
 
-console.log(toPinyinString("中心"));
-console.log(replacePinyinTones(toPinyinString("中心")));  
+console.log(toPinyinString("你被骗了"));
+console.log(replacePinyinTones(toPinyinString("你被骗了")));  
+
+console.log(toPinyinString("学校"));
+console.log(replacePinyinTones(toPinyinString("学校")));  
+
+console.log(toPinyinString("筷子"));
+console.log(replacePinyinTones(toPinyinString("筷子")));  
