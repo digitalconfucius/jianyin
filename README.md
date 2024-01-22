@@ -66,9 +66,11 @@ In an opposite manner, we thought about simply always replacing the fourth tone 
 # Resources Used
 国语罗马字: https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh
 
-bootstrap: https://getbootstrap.com/
-
 chinese-to-pinyin: https://www.npmjs.com/package/chinese-to-pinyin
+
+parcel (legacy): https://www.npmjs.com/package/parcel-bundler
+
+bootstrap: https://getbootstrap.com/
 
 logo generator: https://chinese.gratis/tools/chinesecalligraphy/
 
