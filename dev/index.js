@@ -1,7 +1,11 @@
-import pinyin from "pinyin";
+// import pinyin from "pinyin";
+
+import pinyin from "chinese-to-pinyin";
 
 function toPinyinString(text) {
-  return pinyin(text, {group: true, segment: true})[0][0];
+  // return pinyin(text, {group: true, segment: true})[0][0]; // pinyin library
+
+  return pinyin(text, {removeSpace: true}); // chinese-to-pinyin library
 }
 
 function replacePinyinTones(text) {
