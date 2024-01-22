@@ -6,17 +6,20 @@ Visit the live demo (which has some limitations) here: https://digitalconfucius.
 # Examples of jiaanyīn
 
 ```
-你为什么一直喜欢吃绿葡萄
-nii weihshénme yīzhí xiihuan chī lüy pútao
-
-旅游
-lüü yóu
-
 你好，我是大卫
 nii haao, woo shih Dahweiy
 
+你为什么一直喜欢吃绿葡萄
+nii weihshénme yīzhí xiihuan chī lüy pútao
+
+学校旅游
+xúexiaoy lüüyóu
+
 这个环境不适合你的性格
 zheh geh huánjihng buy shihhé nii de xihnggé 
+
+北京的背景被别的杯备了
+Beeijīng de beiyjiing beiy biehde bēi beiyle
 ```
 
 # Why jiaanyīn?
