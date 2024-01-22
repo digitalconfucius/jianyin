@@ -4,21 +4,20 @@ jiaanyīn is a Modern Standard Chinese pronunciation guide with semi-toneless wr
 Visit the live demo (which has some limitations) here: https://digitalconfucius.github.io/jianyin/.
 
 # Examples of jiaanyīn
-你为什么一直喜欢吃绿葡萄
 
-nii weihshénme yīzhí xiihuan chī lüh pútao
+```
+你为什么一直喜欢吃绿葡萄
+nii weihshénme yīzhí xiihuan chī lüy pútao
 
 旅游
-
 lüü yóu
 
 你好，我是大卫
-
 nii haao, woo shih Dahweiy
 
 这个环境不适合你的性格
-
 zheh geh huánjihng buy shihhé nii de xihnggé 
+```
 
 # Why jiaanyīn?
 
