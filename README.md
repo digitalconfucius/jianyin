@@ -3,6 +3,23 @@ jiaanyīn is a Modern Standard Chinese pronunciation guide with semi-toneless wr
 
 Visit the live demo (which has some limitations) here: https://digitalconfucius.github.io/jianyin/.
 
+# Examples of jiaanyīn
+你为什么一直喜欢吃绿葡萄
+
+nii weihshénme yīzhí xiihuan chī lüh pútao
+
+旅游
+
+lüü yóu
+
+你好，我是大卫
+
+nii haao, woo shih Dahweiy
+
+这个环境不适合你的性格
+
+zheh geh huánjihng buy shihhé nii de xihnggé 
+
 # Why jiaanyīn?
 
 Hahnyuu Pīnyīn has become the de facto standard for Chinese Latinization, but the excess of tonal markers can make it very difficult for native English speakers to read. It especially becomes a bottleneck for early-advanced speakers of Chinese, who are fully aware of all five Chinese tones at an auditory level but still unconsciously read Pīnyīn as if it were English. 
@@ -11,7 +28,7 @@ The main problem is that á, ǎ, and á correspond to completely different sound
 
 [Guóyuu Luómaazih 国语罗马字](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh) does not have the same problem with tonal markers. Most of the unique sounds of modern Chinese are truly rendered with unique, zero-diacritical spellings, meaning that once you learn it, you can pronounce it perfectly without relying on the concept of "tone" at all. The problem is that Guóyuu Luómaazih is pretty complex and doesn't have a one-to-one mapping in the clean and obvious way guaranteed by Hahnyuu Pīnyīn. 
 
-"[Toneless spelling] makes the spelling more complicated, but gives an individuality to the physiognomy of words, with which it is possible to associate meaning ... [A]s an instrument of teaching, **tonal spelling has proved in practice to be a most powerful aid in enabling the student to grasp the material with precision and clearness**." - 赵元任 Zhaoy Yuánrehn [slightly embellished]
+> "[Toneless spelling] makes the spelling more complicated, but gives an individuality to the physiognomy of words, with which it is possible to associate meaning ... [A]s an instrument of teaching, **tonal spelling has proved in practice to be a most powerful aid in enabling the student to grasp the material with precision and clearness**." - 赵元任 Zhaoy Yuánrehn [slightly embellished]
 
 Here's where jiaanyīn comes in. It has semi-toneless spelling, and all five Chinese tones are rendered in completely different looking ways. In particular, the 2nd, 3rd, and 4th tones, which are notoriously similar in appearance while being vastly different in pronunciation, are now separated. **á, ǎ, and á become á, aa, and ah**. 
 
@@ -22,19 +39,6 @@ Here's where jiaanyīn comes in. It has semi-toneless spelling, and all five Chi
 4. Expand the fourth-tone single vowel "u" or "ü" with -y (e.g. ù -> uy).
 4. Expand the fourth-tone dinstinct double-vowels with -h (e.g. ià -> iàh). (Chinese has distinguished adjacent vowels, like "uo" and "ia", which are not combined in a single syllable. )
 5. Expand everything else in the fourth tone with -h (e.g. è -> eh).
-
-# Examples of jiaanyīn
-你为什么一直喜欢吃绿葡萄
-nii weihshénme yīzhí xiihuan chī lüh pútao
-
-旅游
-lüü yóu
-
-你好，我是大卫
-nii haao, woo shih Dahweiy
-
-这个环境不适合你的性格
-zheh geh huánjihng buy shihhé nii de xihnggé 
 
 Try it out with our live demo: https://digitalconfucius.github.io/jianyin/.
 
