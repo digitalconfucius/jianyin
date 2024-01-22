@@ -35,7 +35,7 @@ The main problem is that á, ǎ, and á correspond to completely different sound
 
 > "[Toneless spelling] makes the spelling more complicated, but gives an individuality to the physiognomy of words, with which it is possible to associate meaning ... [A]s an instrument of teaching, **tonal spelling has proved in practice to be a most powerful aid in enabling the student to grasp the material with precision and clearness**." - 赵元任 Zhaoy Yuánrehn [slightly embellished]
 
-Here's where jiaanyīn comes in. It has semi-toneless spelling, and all five Chinese tones are rendered in completely different looking ways. In particular, the 2nd, 3rd, and 4th tones, which are notoriously similar in appearance while being vastly different in pronunciation, are now separated. **á, ǎ, and á become á, aa, and ah**. 
+Here's where jiaanyīn comes in. It has semi-toneless spelling, and all five Chinese tones are rendered in completely different looking ways. In particular, the 2nd, 3rd, and 4th tones, which are notoriously similar in appearance while being vastly different in pronunciation, are now separated. **á, ǎ, and à become á, aa, and ah**. 
 
 # Rules of jiaanyīn
 1. Start with Pīnyīn 拼音.
