@@ -7,6 +7,7 @@ Visit the page here: https://digitalconfucius.github.io/jianyin/
 
 国语罗马字: https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh
 
-Bootstrap: https://getbootstrap.com/
+bootstrap: https://getbootstrap.com/
 
-Hanzi Tools: https://github.com/peterolson/hanzi-tools
+hotoo/pinyin: https://www.npmjs.com/package/pinyin
+
