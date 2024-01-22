@@ -43,14 +43,8 @@ function replacePinyinTones(text) {
   return currentText;
 }
 
-console.log(toPinyinString("你为什么喜欢吃绿葡萄"));
-console.log(replacePinyinTones(toPinyinString("你为什么喜欢吃绿葡萄")));  
-
-console.log(toPinyinString("你被骗了"));
-console.log(replacePinyinTones(toPinyinString("你被骗了")));  
-
-console.log(toPinyinString("学校"));
-console.log(replacePinyinTones(toPinyinString("学校")));  
-
-console.log(toPinyinString("筷子"));
-console.log(replacePinyinTones(toPinyinString("筷子")));  
+function generate() {
+  let text = document.getElementById('inputText').value;
+  let toShow = replacePinyinTones(toPinyinString(text));
+  document.getElementById('outputText').innerText = toShow;
+}
