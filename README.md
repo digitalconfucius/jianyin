@@ -1,3 +1,6 @@
+
+![logo](./dev/jianyin.png)
+
 # 简音 jiaanyīn 
 jiaanyīn is a Modern Standard Chinese pronunciation guide with semi-toneless writing for early-advanced speakers. It's a combination of [Hahnyuu Pīnyīn 汉语拼音](https://en.wikipedia.org/wiki/Pinyin) and Guóyuu Luómaazih [国语罗马字](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh).
 
