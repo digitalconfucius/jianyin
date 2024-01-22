@@ -22,7 +22,7 @@ xúexiaoy lüüyóu
 zheh geh huánjihng buy shihhé nii de xihnggé 
 
 北京的背景被别的杯备了
-Beeijīng de beiyjiing beiy biehde bēi beiyle
+Beeijīng de beiyjiing beiy biehde bēi beiy le
 ```
 
 # Why jiaanyīn?
