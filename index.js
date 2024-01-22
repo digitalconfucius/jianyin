@@ -48,3 +48,8 @@ function generate() {
   let toShow = replacePinyinTones(toPinyinString(text));
   document.getElementById('outputText').innerText = toShow;
 }
+
+window.generate = generate;
+
+console.log("hello");
+console.log(replacePinyinTones(toPinyinString("你好")));
