@@ -61,7 +61,7 @@ We decided to preserve the ā tone marker because it is so unique to modern Chin
 
 We considered adding a -w sound for dipthongs ending in o, like bào and hào (baow and haow), but it makes the rules a little complicated to remember. We felt that baoy and haoy were good enough, despite falling somewhat short of the mark. Feel free to experiment with that on your own.
 
-In an opposite manner, we thought about simply always replacing the fourth tone with the terminal -h. (e.g. lù -> luh, lèi -> leiy). We felt this might be too far of a stretch from how it could be pronounced in English. Feel free to experiment with adding this rule yourself.
+In an opposite manner, we thought about simply always replacing the fourth tone with the terminal -h. (e.g. lù -> luh, lèi -> leih). We felt this might be too far of a stretch from how it could be pronounced in English. Feel free to experiment with adding this rule yourself.
 
 # Resources Used
 国语罗马字: https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh
