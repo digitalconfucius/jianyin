@@ -68,5 +68,8 @@ In an opposite manner, we thought about simply always replacing the fourth tone 
 
 bootstrap: https://getbootstrap.com/
 
-hotoo/pinyin: https://www.npmjs.com/package/pinyin
+chinese-to-pinyin: https://www.npmjs.com/package/chinese-to-pinyin
+
+logo generator: https://chinese.gratis/tools/chinesecalligraphy/
+
 
